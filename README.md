@@ -1,4 +1,4 @@
-# ES6 AngularJS Boilerplate
+# ES6 AngularJS (v1.5) Boilerplate
 
 1. Clone the repository
 2. `npm install`
